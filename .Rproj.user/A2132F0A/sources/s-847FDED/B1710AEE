@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582304161164.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B1710AEE",
+    "lastKnownWriteTime" : 1582304469,
+    "last_content_update" : 1582304469228,
+    "path" : "~/Desktop/ROptSpace/R/package-ROptSpace.R",
+    "project_path" : "R/package-ROptSpace.R",
+    "properties" : {
+        "cursorPosition" : "0,43",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

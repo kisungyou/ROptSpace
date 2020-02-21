@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582304582657.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "866BF9B4",
+    "lastKnownWriteTime" : 1582304724,
+    "last_content_update" : 1582304724152,
+    "path" : "~/Desktop/ROptSpace/src/toy_codes.cpp",
+    "project_path" : "src/toy_codes.cpp",
+    "properties" : {
+        "cursorPosition" : "26,17",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}

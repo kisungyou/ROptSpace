@@ -1,0 +1,13 @@
+Package: ROptSpace
+Type: Package
+Title: Matrix Reconstruction from a Few Entries
+Version: 0.2.2
+Authors@R: person("Kisung", "You", role = c("aut", "cre"),email = "kyoustat@gmail.com",comment=c(ORCID="0000-0002-8584-459X"))
+Description: Matrix reconstruction, also known as matrix completion, is the task of inferring missing entries of a partially observed matrix. This package provides a method called OptSpace, which was proposed by Keshavan, R.H., Oh, S., and Montanari, A. (2009) <doi:10.1109/ISIT.2009.5205567> for a case under low-rank assumption.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp, Rdpack, stats, utils
+LinkingTo: Rcpp, RcppArmadillo
+RdMacros: Rdpack
+RoxygenNote: 7.0.2

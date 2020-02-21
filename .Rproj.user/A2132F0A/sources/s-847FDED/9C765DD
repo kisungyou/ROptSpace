@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582304263464.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9C765DD",
+    "lastKnownWriteTime" : 1582304315,
+    "last_content_update" : 1582304315027,
+    "path" : "~/Desktop/ROptSpace/R/zzz.R",
+    "project_path" : "R/zzz.R",
+    "properties" : {
+        "cursorPosition" : "7,42",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

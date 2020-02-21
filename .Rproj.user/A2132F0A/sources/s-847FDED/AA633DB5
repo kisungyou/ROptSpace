@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582304251300.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AA633DB5",
+    "lastKnownWriteTime" : 1582304254,
+    "last_content_update" : 1582304254185,
+    "path" : "~/Desktop/ROptSpace/R/auxiliary.R",
+    "project_path" : "R/auxiliary.R",
+    "properties" : {
+        "cursorPosition" : "169,0",
+        "scrollLine" : "140",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
