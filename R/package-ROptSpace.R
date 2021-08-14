@@ -8,6 +8,7 @@
 #' 
 #' @docType package
 #' @name ROptSpace
+#' @noRd
 #' @aliases package-ROptSpace
 #' @importFrom utils packageVersion
 #' @import stats Rdpack
