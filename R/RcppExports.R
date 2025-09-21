@@ -2,6 +2,6 @@
 # Generator token: 10BE3573-1514-4C36-9D1C-5A225CD40393
 
 cpp_colsums <- function(A) {
-    .Call('_ROptSpace_cpp_colsums', PACKAGE = 'ROptSpace', A)
+    .Call(`_ROptSpace_cpp_colsums`, A)
 }
 
